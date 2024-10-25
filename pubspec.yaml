@@ -1,0 +1,35 @@
+name: proyecto_final_automatas
+description: "Maquina Expendedora Bebidas"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/coca_cola.jpg
+    - assets/images/fanta.jpg
+    - assets/images/grapette.jpg
+    - assets/images/jumex.jpg
+    - assets/images/arizona.png
+    - assets/images/raptor.png
+    - assets/images/perrier.jpg
+    - assets/images/pippa.png
+    - assets/images/del_valle.png
+    - assets/images/san_pellegrino.jpg
+    - assets/images/monster.jpg
+    - assets/images/redbull.jpg
